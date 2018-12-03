@@ -1,6 +1,7 @@
 header{
     background-image: url(4.jpg);
    background-position: center;
+    background-attachement: fixed;
    height: 500px;
    width: 100%;
    padding-top: 150px;
